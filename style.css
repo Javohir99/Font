@@ -1,0 +1,33 @@
+.number1{
+    font-family: serif;
+}
+.number2{
+    font-family: sans-serif;
+}
+.number3{
+    font-family: monospace;
+}
+.number4{
+    font-family: Fantasy;
+}
+.number5{
+    font-family: cursive;
+}
+.number6{
+    font-family: system-ui;
+}
+.number7{
+    font-family: emoji;
+}
+.number8{
+    font-family: math;
+}
+.number9{
+    font-family: script;
+}
+.number10{
+    font-family: initial;
+}
+.number12{
+    font-family: inherit;
+}
